@@ -1,4 +1,3 @@
-# Portfolio Starter
 
 Animated one-page portfolio starter built with React, TypeScript, and Vite. Includes scroll reveals, cursor-reactive lighting, project cards, contact links, and light/dark themes.
 
